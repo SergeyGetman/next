@@ -73,7 +73,7 @@ eval("\nObject.defineProperty(exports, \"__esModule\", ({\n    value: true\n}));
   \********************************/
 /***/ ((module) => {
 
-eval("// Exports\nmodule.exports = {\n\t\"navbar\": \"style_navbar__LccSe\",\n\t\"link\": \"style_link__B2iO2\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9zdHlsZS5tb2R1bGUuY3NzLmpzIiwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQTtBQUNBO0FBQ0EiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly9uZXh0X2pzLy4vcGFnZXMvc3R5bGUubW9kdWxlLmNzcz9iNmQ2Il0sInNvdXJjZXNDb250ZW50IjpbIi8vIEV4cG9ydHNcbm1vZHVsZS5leHBvcnRzID0ge1xuXHRcIm5hdmJhclwiOiBcInN0eWxlX25hdmJhcl9fTGNjU2VcIixcblx0XCJsaW5rXCI6IFwic3R5bGVfbGlua19fQjJpTzJcIlxufTtcbiJdLCJuYW1lcyI6W10sInNvdXJjZVJvb3QiOiIifQ==\n//# sourceURL=webpack-internal:///./pages/style.module.css\n");
+eval("// Exports\nmodule.exports = {\n\t\"navbar\": \"style_navbar__LccSe\",\n\t\"link\": \"style_link__B2iO2\",\n\t\"error\": \"style_error__Z9zR8\"\n};\n//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9wYWdlcy9zdHlsZS5tb2R1bGUuY3NzLmpzIiwibWFwcGluZ3MiOiJBQUFBO0FBQ0E7QUFDQTtBQUNBO0FBQ0E7QUFDQSIsInNvdXJjZXMiOlsid2VicGFjazovL25leHRfanMvLi9wYWdlcy9zdHlsZS5tb2R1bGUuY3NzP2I2ZDYiXSwic291cmNlc0NvbnRlbnQiOlsiLy8gRXhwb3J0c1xubW9kdWxlLmV4cG9ydHMgPSB7XG5cdFwibmF2YmFyXCI6IFwic3R5bGVfbmF2YmFyX19MY2NTZVwiLFxuXHRcImxpbmtcIjogXCJzdHlsZV9saW5rX19CMmlPMlwiLFxuXHRcImVycm9yXCI6IFwic3R5bGVfZXJyb3JfX1o5elI4XCJcbn07XG4iXSwibmFtZXMiOltdLCJzb3VyY2VSb290IjoiIn0=\n//# sourceURL=webpack-internal:///./pages/style.module.css\n");
 
 /***/ }),
 

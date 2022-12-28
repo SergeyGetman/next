@@ -1,7 +1,3 @@
-import Link from "next/link";
-import cl from "./style.module.css"
-import A from "../components/A";
-import Head from "next/head";
 import MainContainer from "../components/MainContainer";
 
 const Index = () => {

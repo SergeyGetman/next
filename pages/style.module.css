@@ -8,3 +8,9 @@
     color: white;
     font-size: 3vh;
 }
+
+.error {
+    text-align: center;
+    font-size: 10vh;
+    margin-top: 15%;
+}
