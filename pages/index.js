@@ -1,17 +1,17 @@
 import Link from "next/link";
 import cl from "./style.module.css"
 import A from "../components/A";
+import Head from "next/head";
+import MainContainer from "../components/MainContainer";
 
 const Index = () => {
 
     return (
-        <div>
-            <div className={cl.navbar}>
-                <A href={"/"} text="Главная">Main</A>
-                <A href={"/users"} text="Пользователи">Main</A>
-            </div>
-            <h1>Main Command</h1>
-        </div>
+
+            <MainContainer keywords={"Main Page"}>
+                <h1>Main Command</h1>
+            </MainContainer>
+
     );
 };
 

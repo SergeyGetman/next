@@ -1,11 +1,12 @@
 import {useEffect, useState} from "react";
 import Link from "next/link";
+import MainContainer from "../components/MainContainer";
 
 const Users = ({users}) => {
 
 
     return (
-        <div>
+        <MainContainer keywords={"page users"}>
             <h1>All users</h1>
             <ul>{users.map((el, idx) => {
                 return (
@@ -16,7 +17,7 @@ const Users = ({users}) => {
                     </li>
                 )
             })}</ul>
-        </div>
+        </MainContainer>
     );
 };
 
